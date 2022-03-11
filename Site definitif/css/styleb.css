@@ -1,0 +1,25 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  background-image: url(../images/avatarDef17.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#burger {
+  position: fixed;
+  left: 97%;
+  /* display: flex; */
+}
+
+#canvas1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* background: #333; */
+  opacity: 0.3;
+}
